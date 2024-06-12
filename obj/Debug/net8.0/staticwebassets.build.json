@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h4wnlHQhY4a+2TvuW4EhojOHV4OEwqUgTMKsiddaZME=",
+  "Source": "api-empregados",
+  "BasePath": "_content/api-empregados",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
